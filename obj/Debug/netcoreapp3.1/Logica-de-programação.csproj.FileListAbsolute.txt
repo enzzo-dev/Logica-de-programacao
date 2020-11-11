@@ -1,0 +1,13 @@
+D:\xampp\htdocs\Logica-de-programação\obj\Debug\netcoreapp3.1\Logica-de-programação.csprojAssemblyReference.cache
+D:\xampp\htdocs\Logica-de-programação\obj\Debug\netcoreapp3.1\Logica-de-programação.AssemblyInfoInputs.cache
+D:\xampp\htdocs\Logica-de-programação\obj\Debug\netcoreapp3.1\Logica-de-programação.AssemblyInfo.cs
+D:\xampp\htdocs\Logica-de-programação\obj\Debug\netcoreapp3.1\Logica-de-programação.csproj.CoreCompileInputs.cache
+D:\xampp\htdocs\Logica-de-programação\bin\Debug\netcoreapp3.1\Logica-de-programação.exe
+D:\xampp\htdocs\Logica-de-programação\bin\Debug\netcoreapp3.1\Logica-de-programação.deps.json
+D:\xampp\htdocs\Logica-de-programação\bin\Debug\netcoreapp3.1\Logica-de-programação.runtimeconfig.json
+D:\xampp\htdocs\Logica-de-programação\bin\Debug\netcoreapp3.1\Logica-de-programação.runtimeconfig.dev.json
+D:\xampp\htdocs\Logica-de-programação\bin\Debug\netcoreapp3.1\Logica-de-programação.dll
+D:\xampp\htdocs\Logica-de-programação\bin\Debug\netcoreapp3.1\Logica-de-programação.pdb
+D:\xampp\htdocs\Logica-de-programação\obj\Debug\netcoreapp3.1\Logica-de-programação.dll
+D:\xampp\htdocs\Logica-de-programação\obj\Debug\netcoreapp3.1\Logica-de-programação.pdb
+D:\xampp\htdocs\Logica-de-programação\obj\Debug\netcoreapp3.1\Logica-de-programação.genruntimeconfig.cache
