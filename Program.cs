@@ -17,7 +17,8 @@ namespace Logica_de_programação
            int soma = valor1 + valor2;
          
           //Exibir
-          Console.WriteLine(" A soma dos valores é: " + soma);
+          Console.WriteLine("O resultado da some entre " + valor1 + " e " + valor2 + " é " + soma); //Concatenação entre texto e váriaveis
+          
         }
     }
 }

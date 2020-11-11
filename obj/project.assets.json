@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\xampp\\htdocs\\Logica-de-programação\\Logica-de-programação.csproj",
+      "projectUniqueName": "C:\\Users\\User\\Desktop\\Logica-de-programacao\\Logica-de-programação.csproj",
       "projectName": "Logica-de-programação",
-      "projectPath": "D:\\xampp\\htdocs\\Logica-de-programação\\Logica-de-programação.csproj",
+      "projectPath": "C:\\Users\\User\\Desktop\\Logica-de-programacao\\Logica-de-programação.csproj",
       "packagesPath": "C:\\Users\\User\\.nuget\\packages\\",
-      "outputPath": "D:\\xampp\\htdocs\\Logica-de-programação\\obj\\",
+      "outputPath": "C:\\Users\\User\\Desktop\\Logica-de-programacao\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\User\\AppData\\Roaming\\NuGet\\NuGet.Config"
