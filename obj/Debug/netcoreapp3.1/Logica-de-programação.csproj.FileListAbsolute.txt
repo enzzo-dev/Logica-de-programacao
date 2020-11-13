@@ -24,3 +24,16 @@ C:\Users\User\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-pr
 C:\Users\User\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programação.dll
 C:\Users\User\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programação.pdb
 C:\Users\User\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programação.genruntimeconfig.cache
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programação.exe
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programação.deps.json
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programação.runtimeconfig.json
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programação.runtimeconfig.dev.json
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programação.dll
+C:\Users\dev\Desktop\Logica-de-programacao\bin\Debug\netcoreapp3.1\Logica-de-programação.pdb
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programação.csprojAssemblyReference.cache
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programação.AssemblyInfoInputs.cache
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programação.AssemblyInfo.cs
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programação.csproj.CoreCompileInputs.cache
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programação.dll
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programação.pdb
+C:\Users\dev\Desktop\Logica-de-programacao\obj\Debug\netcoreapp3.1\Logica-de-programação.genruntimeconfig.cache
