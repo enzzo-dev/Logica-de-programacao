@@ -11,25 +11,25 @@ namespace Logica_de_programação
 
             //Aula do dia 11/11
             
-            /*Console.WriteLine("Digite um número:");
+            Console.WriteLine("Digite um número:");
             int valor1 = int.Parse(Console.ReadLine());
             Console.WriteLine("Digite outro valor:");
             int valor2 = int.Parse(Console.ReadLine());
             //Processamento
             int soma = valor1 + valor2;
             //Exibir
-                if ( valor1 == 0 && valor2 == 0){
-                    Console.WriteLine("Digite um valor válido!");
-                }
-            Console.WriteLine("O resultado da some entre " + valor1 + " e " + valor2 + " é " + soma);
-            //Concatenação entre texto e váriaveis*/
+            if ( valor1 == 0 && valor2 == 0){
+                Console.WriteLine("Digite um valor válido!");
+            }
+            Console.WriteLine("O resultado da soma entre " + valor1 + " e " + valor2 + " é " + soma);
+        
             //Data da aula 11/11
 
             //Data da aula 12/11
 
             //Entrada de dados
 
-           /*
+           
             Console.WriteLine("Qual o nome do aluno?");
             string nome = Console.ReadLine();  
 
@@ -52,30 +52,30 @@ namespace Logica_de_programação
             } else {
                 Console.WriteLine("O(a) Aluno(a) "+nome+ " está de recuperação e sua média foi: "+media);
             }
-            */
+            
             //Aula do dia 12/11
 
            //Aula do 13/11
 
-            /*Console.WriteLine("Qual a sua idade?");
+            Console.WriteLine("Qual a sua idade?");
             int idade = int.Parse(Console.ReadLine());
-             if(idade >= 18){
-                Console.WriteLine("Você gostaria de participar do time de CS G0? - Sim ou Não");
+            if(idade >= 18){
+            Console.WriteLine("Você gostaria de participar do time de CS G0? - Sim ou Não");
+            string resposta = Console.ReadLine();
+            if(resposta == "Sim"){
+                Console.WriteLine("Compareça a seretaria - Faar com a Sara");
+            } else {
+                Console.WriteLine("Blz! Passar bem!");
+            }
+            } else{
+                Console.WriteLine("Você gostaria de participar do time de LOL?");
                 string resposta = Console.ReadLine();
-                if(resposta == "Sim"){
-                    Console.WriteLine("Compareça a seretaria - Faar com a Sara");
+                if( resposta == "Sim"){
+                    Console.WriteLine("Compareça a secretaria - Falar com Juscelino!");
                 } else {
-                    Console.WriteLine("Blz! Passar bem!");
+                    Console.WriteLine("Muito obrigado!");
                 }
-             } else{
-                 Console.WriteLine("Você gostaria de participar do time de LOL?");
-                 string resposta = Console.ReadLine();
-                 if( resposta == "Sim"){
-                     Console.WriteLine("Compareça a secretaria - Falar com Juscelino!");
-                 } else {
-                     Console.WriteLine("Muito obrigado!");
-                 }
-             } */
+            } 
 
             //Exercicio1
             Console.WriteLine("Qual a sua idade?");
@@ -102,12 +102,13 @@ namespace Logica_de_programação
             int anoAtual = 2020;
             int semana = 52;
 
-            int idade = anoAtual - ano2;
+            int idadeNasc = anoAtual - ano2;
             int idadeSemana = idade * semana;
 
-            Console.WriteLine("Você tem " +idade+ " Anos");
+            Console.WriteLine("Você tem " +idadeNasc+ " Anos");
 
             Console.WriteLine("Sua idade em semanas é: " +idadeSemana+ " semanas"); 
+
 
             //Exercicio 3
 
